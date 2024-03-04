@@ -1,0 +1,177 @@
+body{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(0, 0, 0);
+}
+.navigation li a{
+    text-decoration: none;
+    justify-content: space-between;
+    padding-left: 100px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.navigation li a:hover{
+    color: black;
+    text-decoration: underline;
+}
+.navigation li {
+    list-style: none;
+    padding-left: 100px;
+    padding-top: 20px;
+
+}
+.navigation{
+    background-color:rgb(255, 178, 35);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 1000px;
+    height: 50px;
+    padding-right: 10px;
+    transform: translate(200px);
+}
+.content{
+    
+    width: 400px;
+    margin-top: 200px;
+    margin-left: 200px;
+    font-family: sans-serif;
+    color: white;    
+}
+#ic img{
+    color: rgb(252, 252, 252);
+    transform: translate(200px,-500px);
+    
+}
+img{
+    transform: translate(400px,-300px);
+}
+span{
+    color: rgb(255, 178, 35);
+}
+.btn{
+    padding-left: 20px;
+    color: white;
+}
+.btn button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color:rgb(255, 178, 35); 
+    border-radius: 20px;
+}
+.about-me{
+    color: white;
+    width: 200px;
+    padding-left: 100px;
+    margin-left: 800px;
+    margin-top: 50px;
+}
+#a1{
+    color: grey;
+}
+#a2{
+    font-size: 30px;
+    transform: translate(5px,-55px);
+}
+.para{
+    color: white;
+    width: 400px;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    margin-left: 800px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.my-skill{
+    padding-left: 800px;
+    color: white;
+}
+#a11{
+    color: grey;
+    padding-top: 50px;
+    font-size: 40px;
+}
+#a22{
+    transform: translate(-70px,-70px);
+    font-size: 40px;
+    margin-top: 1px;
+}
+progress{
+    background-color: rgb(255, 166, 0);
+}
+#p1{
+    color: white;
+}
+.skill-p1{
+    padding-left: 300px;
+}
+.skill-p2{
+    padding-left: 600px;
+    transform: translate(100px,-240px);
+}
+.container{
+    width: 300px;
+    height: 300px;
+    background-color: orange;
+    background-image: linear-gradient(rgb(194, 77, 93),rgb(255, 230, 0));
+    margin-top: 100px;
+    margin-left: 250px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.ico{
+    color: white;
+}
+.ico i {
+    padding-left: 150px;
+    color: black;
+}
+.icon p{
+    width: 10px;
+    height: 20px;
+    padding-top: 200px;
+
+}
+.images{
+    width: 800px;
+    height: 500px;
+    transform: translate(300px,-400px);
+
+} 
+
+#M{
+    padding-left: 100px;
+    margin-bottom: 30px;
+}
+.send{
+    color: white;
+    width: 300px;
+    height: 320px;
+    padding-left: 30px;
+    background-color: orange;
+    background-image: linear-gradient(rgb(194, 77, 93),rgb(255, 230, 0));
+    transform: translate(650px,-340px);
+}
+#E{
+    padding-left: 80px;
+    margin-bottom: 30px; 
+}
+.send h1{
+    padding-left: 60px;
+    font-size: 25px;
+    color: black;
+}
+.send p{
+    width: 300px;
+    height: 20px;
+    margin-bottom: 50px;
+}
+input{
+    width: 200px;
+    height: 15px;
+    margin-top: 20px;
+
+}
